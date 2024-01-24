@@ -36,9 +36,9 @@
 
 ## 致谢
 
-[LearnOpenGL](https://learnopengl.com/)
-[LearnOpenGL CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)
-[Qt](https://www.qt.io/)
-[OpenGl](https://registry.khronos.org/OpenGL-Refpages/gl4/)
+- [LearnOpenGL](https://learnopengl.com/)
+- [LearnOpenGL CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)
+- [Qt](https://www.qt.io/)
+- [OpenGl](https://registry.khronos.org/OpenGL-Refpages/gl4/)
 ## 联系方式
 lion_chen@swiftlion.cn
